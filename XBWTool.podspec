@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 s.name         = 'XBWTool'
 s.summary      = 'A collection of iOS components.'
-s.version      = '0.0.3'
+s.version      = '0.0.4'
 s.license      = 'MIT'
 s.authors      = { 'xubiwei' => '93161504@qq.com' }
 s.homepage     = 'https://github.com/xubiweige/XBWTool'
